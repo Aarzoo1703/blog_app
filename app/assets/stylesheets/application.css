@@ -1,0 +1,23 @@
+ li{
+    list-style: none;
+ }
+ a{
+    cursor: pointer;
+    text-decoration: none;
+    color: grey;
+ }
+ a:hover{
+   color: black;
+ }
+ .container{
+   padding: 20px;
+   margin: 0;
+ }
+ .buttons_container{
+  display: flex;
+  gap: 10px;
+ }
+
+ .container-fluid > a{
+  color: white;
+ }
